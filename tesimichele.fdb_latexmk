@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1737308276.22899 "/Users/aisja/Desktop/Tesi Michele/tesimichele.tex" "tesimichele.pdf" "tesimichele" 1737308278.56563 0
-  "/Users/aisja/Desktop/Tesi Michele/tesimichele.tex" 1737308273.61733 207485 d26f6345ccef7659d527489b2b34eda4 ""
+["pdflatex"] 1737563059.40037 "/Users/aisja/Documents/Il-cinema-di-Quentin-Tarantino/tesimichele.tex" "tesimichele.pdf" "tesimichele" 1737563061.85935 0
+  "/Users/aisja/Documents/Il-cinema-di-Quentin-Tarantino/tesimichele.tex" 1737563059.12292 207485 a72fc4159bade659367be7b269c7ddfc ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/jknappen/ec/tcrm1200.tfm" 1136768653 1536 74b7293ec3713bb7fdca8dd1bd1f469c ""
@@ -82,10 +82,10 @@
   "grafico2.png" 1737306480.92536 74033 30ba87468e64f3ac7203798c48f5ecf5 ""
   "grafico3.png" 1737306809.20643 189992 f87541e20ecd9e649ffdd1eacaba9ebf ""
   "labalogo.png" 1670935116 376201 230ea02a80e8f40c1f0ea652c565d4b3 ""
-  "tesimichele.aux" 1737308278.51906 4050 a0b7ad2ebfe097b198a63671bc0fa41c "pdflatex"
-  "tesimichele.out" 1737308278.51972 4621 e1127b14a4ab785a42b02ef99af415dc "pdflatex"
-  "tesimichele.tex" 1737308273.61733 207485 d26f6345ccef7659d527489b2b34eda4 ""
-  "tesimichele.toc" 1737308278.51988 2555 d6cdc7a3c8a5e379f833f24d65bd9e47 "pdflatex"
+  "tesimichele.aux" 1737563061.81026 4050 a0b7ad2ebfe097b198a63671bc0fa41c "pdflatex"
+  "tesimichele.out" 1737563061.81095 4621 e1127b14a4ab785a42b02ef99af415dc "pdflatex"
+  "tesimichele.tex" 1737563059.12292 207485 a72fc4159bade659367be7b269c7ddfc ""
+  "tesimichele.toc" 1737563061.8112 2555 d6cdc7a3c8a5e379f833f24d65bd9e47 "pdflatex"
   (generated)
   "tesimichele.aux"
   "tesimichele.log"

@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.11.28)  19 JAN 2025 18:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.11.28)  22 JAN 2025 17:24
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"/Users/aisja/Desktop/Tesi Michele/tesimichele.tex"
-(/Users/aisja/Desktop/Tesi Michele/tesimichele.tex
+**/Users/aisja/Documents/Il-cinema-di-Quentin-Tarantino/tesimichele.tex
+(/Users/aisja/Documents/Il-cinema-di-Quentin-Tarantino/tesimichele.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
 (/usr/local/texlive/2024/texmf-dist/tex/latex/base/article.cls
@@ -310,12 +310,12 @@ Package rerunfilecheck Info: File `tesimichele.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  10111 strings out of 474116
- 163388 string characters out of 5743681
+ 163446 string characters out of 5743681
  1935187 words of memory out of 5000000
  31776 multiletter control sequences out of 15000+600000
  564269 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,8n,82p,1510b,609s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,8n,82p,1528b,609s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 pdfTeX warning (dest): name{Hfootnote.83} has been referenced but does not exist, replaced by a fixed one
 

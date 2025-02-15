@@ -1,8 +1,8 @@
-PWD /Users/aisja/Desktop/Tesi Michele
+PWD /Users/aisja/Documents/Il-cinema-di-Quentin-Tarantino
 INPUT /usr/local/texlive/2024/texmf.cnf
 INPUT /usr/local/texlive/2024/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/aisja/Desktop/Tesi Michele/tesimichele.tex
+INPUT /Users/aisja/Documents/Il-cinema-di-Quentin-Tarantino/tesimichele.tex
 OUTPUT tesimichele.log
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/base/article.cls
